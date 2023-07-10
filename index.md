@@ -1,10 +1,10 @@
 # **👋 Welcome to my portfolio**
 
-</br>
+
 
 ## **1. Technical Articles**
 
-</br>
+
 
 ### *Calculate and use Quartile in your Data analysis*
 
@@ -25,14 +25,14 @@ This article explain what could be the best way that two or more fragments in an
 
 ---
 
-</br>
+
 
 ## **2. Visualizations and Dashboard**
 
-</br>
+
 
 ### *Cluster CCCM Haiti - IDP Site Profile*
-<br/>
+
 
 [Access the dashboard by following this link](https://u3l.co/cccmhti_siteprofile) 
 
@@ -45,10 +45,10 @@ The site profile report aims to identify the infrastructure and services, as wel
 <!-- [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/> -->
 
-</br>
+
 
 ### *HACP Niger - Intervention à la Consolidation de la paix au Niger*
-<br/>
+
 
 [Access the dashboard by following this link](https://u3l.co/nerhacp) 
 
@@ -62,10 +62,10 @@ Support was provided to the HACP/assigné coordination mechanism in its capacity
 <img src="images/nerhacp.jpg?raw=true"/>
 
 ---
-</br>
+
 
 ### *IOM Dakar RO Office - IBM Overview in West and Central Africa*
-<br/>
+
 
 [Access the dashboard by following this link](https://u3l.co/wca_ibmoverview) 
 
@@ -75,11 +75,11 @@ This dashboard brings together all the information gathered on IBM's activities 
 <img src="images/ibmoverview.jpg?raw=true"/>
 
 ---
-</br>
+
 
 ## **3. Reports (Written, contributed)**
 
-</br>
+
 
 - [IOM Niger - NCCI programme - Perception Survey Report in Kollo - BAA](https://u3l.co/cccmhti_siteprofile)
 - [IOM Niger - NCCI programme - Perception Survey Report FPI-EU](http://example.com/)
