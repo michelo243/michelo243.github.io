@@ -81,8 +81,8 @@ This dashboard brings together all the information gathered on IBM's activities 
 
 
 
-- [IOM Niger - NCCI programme - Perception Survey Report in Kollo - BAA](https://u3l.co/cccmhti_siteprofile)
-- [IOM Niger - NCCI programme - Perception Survey Report FPI-EU](http://example.com/)
+- [IOM Niger - NCCI programme - Perception Survey Report in Kollo - BAA](https://u3l.co/ncci_perception_kollo)
+- [IOM Niger - NCCI programme - Perception Survey Report FPI-EU](https://u3l.co/ncci_perception_fpi-eu)
 - [Report - Stability Index in Department of Kollo - Niger](https://u3l.co/SI_Kollo)
 - [Report - Stability Index Liptako Gourma Round2 - Niger](https://u3l.co/SI_LiptakoGourma_rd2)
 - [Report - Stability Index Lake Chad Bassin Round2 - Niger](https://linkye.net/SI_LCB_rd2)
