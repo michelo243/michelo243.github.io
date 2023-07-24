@@ -88,6 +88,33 @@ This dashboard brings together all the information gathered on IBM's activities 
 - [Report - Stability Index Lake Chad Bassin Round2 - Niger](https://linkye.net/SI_LCB_rd2)
 
 
+---
+
+## **4. Projects**
+
+### *Project 1*
+
+
+[Access the dashboard by following this link](https://u3l.co/cccmhti_siteprofile) 
+
+
+
+---
+
+
+
+## **5. Scripts and Codes**
+
+### *5.1. Calculate and use Quartile in your Data analysis*
+
+[Quartiles script repository HERE](https://github.com/michelo243/quartiles.git) 
+
+A quartile is a statistical term that describes a division of observations into four defined intervals based on the values of the data and how they compare to the entire set of observations
+
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+<!-- [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)  -->
 
 
 
