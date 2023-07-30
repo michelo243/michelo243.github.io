@@ -25,6 +25,15 @@ This article explain what could be the best way that two or more fragments in an
 
 ---
 
+### *Using Python to export KoboToolbox data*
+
+This article explain how to wrap part of the KoBoToolbox API using the KoboCollect Extractor’s Python package, with the main goal to provides methods for downloading data from the KoBoToolbox API.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) 
+
+[Read article on Medium](https://medium.com/@misamuna/using-python-to-export-kobotoolbox-data-914b5ad555e7)
+
+---
 
 
 ## **2. Visualizations and Dashboard**
