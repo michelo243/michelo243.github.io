@@ -86,7 +86,7 @@ This dashboard brings together all the information gathered on IBM's activities 
 ---
 
 
-## **3. Reports (Written, contributed)**
+## **3. Written reports**
 
 
 
@@ -101,15 +101,18 @@ This dashboard brings together all the information gathered on IBM's activities 
 
 ## **4. Projects**
 
-### *Project 1*
+### *Project 1 : Predictive data science approaches for enhancing security in Niger*
 
+#### Abstract: 
+The Sahel region, including Niger, faces numerous security challenges, such as terrorism, insurgency, and organized crime. Addressing these threats requires proactive measures and effective resource allocation. This thesis proposes the application of predictive data science approaches to enhance security in Sahel and Niger. 
 
-[Access the dashboard by following this link](https://u3l.co/cccmhti_siteprofile) 
+#### Objective: 
+The main objective of this research is to develop predictive models and tools that leverage data science techniques to forecast security incidents, identify vulnerability hotspots, and optimize resource allocation for enhanced security in the Sahel region, with a specific focus on Niger.
 
+PS : This is an ongoing project, whose final report, scenarios, conclusions and predictions will be published on December 10, 2023.
 
 
 ---
-
 
 
 ## **5. Scripts and Codes**
@@ -120,14 +123,36 @@ This dashboard brings together all the information gathered on IBM's activities 
 
 A quartile is a statistical term that describes a division of observations into four defined intervals based on the values of the data and how they compare to the entire set of observations
 
-
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
 
 <!-- [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#)  -->
 
 
 
+---
 
+## **6. Camp Management Camp Coordination**
+
+### *IOM Haiti (Port-au-Prince)*
+
+#### Abstract: 
+I carried out a 2-and-a-half-month STA in Haiti (Port-au-Prince) to support the IOM office in Haiti as an Information Management Officer for the CCCM Cluster and the Shelter/NFI sector, with an integration of the Cash base process for IDPs. As a result, I helped to put in place information coordination strategies for the CCCM Cluster.
+
+During this period, I demonstrated my managerial and coordination expertise in information management, data analysis, computer analysis, programming languages, and teamwork. I have also supported the implementation of information management strategies and systems in all projects. 
+
+You can find the full handover note with all achievements included [HERE](/pdf/CCCM Haiti_Handover Notes_mnisamuna.pdf)
+
+
+---
+
+## **7. Training Videos (GIS, Software development)**
+
+in order to share the knowledge I've acquired, I've grouped together a series of videos under a free youtube channel.
+
+- [SynapseHubTv Videos Playlist](https://www.youtube.com/@SynapseHubTV/videos)
+
+
+---
 <!-- ---
 <p style="font-size:11px">by Michelo <a href="https://github.com/michelo243">Michel Isamuna</a></p> -->
 
