@@ -135,7 +135,6 @@ A quartile is a statistical term that describes a division of observations into 
 
 ### *IOM Haiti (Port-au-Prince)*
 
-#### Abstract: 
 I carried out a 2-and-a-half-month STA in Haiti (Port-au-Prince) to support the IOM office in Haiti as an Information Management Officer for the CCCM Cluster and the Shelter/NFI sector, with an integration of the Cash base process for IDPs. As a result, I helped to put in place information coordination strategies for the CCCM Cluster.
 
 During this period, I demonstrated my managerial and coordination expertise in information management, data analysis, computer analysis, programming languages, and teamwork. I have also supported the implementation of information management strategies and systems in all projects. 
@@ -145,7 +144,18 @@ You can find the full handover note with all achievements included [HERE](/pdf/C
 
 ---
 
-## **7. Training Videos (GIS, Software development)**
+
+## **7. Mapping (GIS, Maps from A to Z)**
+
+In this part of portfolio present a collection of maps that showcase my individual's mapping skills, projects, and experiences. It serves as a visual representation expertise in geographic information systems (GIS), cartography, and spatial analysis. It may include interactive web maps, printed maps, data visualizations, and other mapping products. 
+
+You can have access on the entire directory containing mapping products  [HERE : Mapping's portfolio](https://u3l.co/michel_portfolio_maps)
+
+
+---
+
+
+## **8. Training Videos (GIS, Software development)**
 
 in order to share the knowledge I've acquired, I've grouped together a series of videos under a free youtube channel.
 
